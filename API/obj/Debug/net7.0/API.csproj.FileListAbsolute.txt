@@ -68,3 +68,6 @@ D:\Repos\ProjectHorn\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Repos\ProjectHorn\API\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 D:\Repos\ProjectHorn\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
 D:\Repos\ProjectHorn\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Repos\ProjectHorn\API\bin\Debug\net7.0\Data\UserSeedData.json
+D:\Repos\ProjectHorn\API\bin\Debug\net7.0\AutoMapper.dll
+D:\Repos\ProjectHorn\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
