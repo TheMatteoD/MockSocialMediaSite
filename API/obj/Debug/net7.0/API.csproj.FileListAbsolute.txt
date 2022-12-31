@@ -71,3 +71,5 @@ D:\Repos\ProjectHorn\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.Open
 D:\Repos\ProjectHorn\API\bin\Debug\net7.0\Data\UserSeedData.json
 D:\Repos\ProjectHorn\API\bin\Debug\net7.0\AutoMapper.dll
 D:\Repos\ProjectHorn\API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Repos\ProjectHorn\API\bin\Debug\net7.0\CloudinaryDotNet.dll
+D:\Repos\ProjectHorn\API\bin\Debug\net7.0\Newtonsoft.Json.dll
